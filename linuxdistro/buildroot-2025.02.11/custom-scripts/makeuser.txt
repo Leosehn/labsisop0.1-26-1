@@ -1,0 +1,1 @@
+seumao -1 people -1 =123 /home/seumao /bin/bash sudo crazy person
