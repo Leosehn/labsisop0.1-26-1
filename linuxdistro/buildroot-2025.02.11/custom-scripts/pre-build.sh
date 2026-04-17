@@ -11,3 +11,5 @@ chmod +x $BASE_DIR/target/etc/init.d/S50hello
 make -C $BASE_DIR/../modules/hello/
 
 make -C $BASE_DIR/../modules/mymodule_param/
+
+make -C $BASE_DIR/../modules/procdriver/
