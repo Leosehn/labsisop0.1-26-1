@@ -13,3 +13,5 @@ make -C $BASE_DIR/../modules/hello/
 make -C $BASE_DIR/../modules/mymodule_param/
 
 make -C $BASE_DIR/../modules/procdriver/
+
+make -C $BASE_DIR/../modules/timerdriver

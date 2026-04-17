@@ -1,0 +1,1 @@
+savedcmd_/workspaces/labsisop0.1-26-1/linuxdistro/buildroot-2025.02.11/modules/timerdriver/timerdriver.mod := printf '%s\n'   timerdriver.o | awk '!x[$$0]++ { print("/workspaces/labsisop0.1-26-1/linuxdistro/buildroot-2025.02.11/modules/timerdriver/"$$0) }' > /workspaces/labsisop0.1-26-1/linuxdistro/buildroot-2025.02.11/modules/timerdriver/timerdriver.mod
